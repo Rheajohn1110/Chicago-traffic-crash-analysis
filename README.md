@@ -33,13 +33,6 @@ Key insights include the identification of high-risk areas, the impact of weathe
 ## Dashboard
 Access the interactive dashboard [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3190617666491842/2373282331786799/6555990026723924/latest.html).
 
-## Team Members
-- Sanchi Gupta
-- Sankalp Biswal
-- Siddhant Viswanath
-- Rhea John Thoppil
-- Krutikkumar Patel
-
 ## References
 - Data sourced from the [City of Chicago Data Portal](https://data.cityofchicago.org/).
 
